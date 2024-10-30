@@ -34,8 +34,6 @@
 
 
 
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -59,7 +57,7 @@
     </style>
 </head>
 <body>
-    <a href="" class="image-link">
+    <a href="" class="https://ice20026.github.io/web-002/">
         <img src="foto 001.gif" alt="Descripción de la imagen 1">
   
   
