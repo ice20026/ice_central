@@ -28,28 +28,42 @@
 </html>
 
 
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF con Hipervínculo</title>
+    <title>Imágenes con Hipervínculo</title>
     <style>
         .image-link {
-            display: block; /* Hace que el enlace se comporte como un bloque para que ocupe toda la imagen */
+            display: inline-block; /* Hace que el enlace se comporte como un bloque */
+            margin: 10px; /* Espacio entre imágenes */
+        }
+        .image-link img {
             max-width: 100%; /* Ajusta el tamaño de la imagen al contenedor */
+            height: auto; /* Mantiene la proporción de la imagen */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Añade sombra a la imagen */
+            transition: transform 0.2s; /* Efecto de transición */
+        }
+        .image-link img:hover {
+            transform: scale(1.05); /* Escala la imagen al pasar el ratón */
         }
     </style>
 </head>
 <body>
-    <a href="https://www.ejemplo.com">
-        <img src="fondo 001.gif" alt="Descripción del GIF" class="image-link">
-    </a>
+    <a href="" class="image-link">
+        <img src="fondo 001.gif" alt="Descripción de la imagen 1">
+  
+  
 </body>
 </html>
-
-
-
-
 
 
