@@ -60,7 +60,7 @@
 </head>
 <body>
     <a href="" class="image-link">
-        <img src="fondo 001.gif" alt="Descripción de la imagen 1">
+        <img src="foto 001.gif" alt="Descripción de la imagen 1">
   
   
 </body>
