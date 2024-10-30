@@ -28,17 +28,12 @@
 </html>
 
 
-
-
-
-
-
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imagen con Hipervínculo</title>
+    <title>GIF con Hipervínculo</title>
     <style>
         .image-link {
             display: block; /* Hace que el enlace se comporte como un bloque para que ocupe toda la imagen */
@@ -48,9 +43,13 @@
 </head>
 <body>
     <a href="https://www.ejemplo.com">
-        <img src="fondo 001.gif" alt="Descripción de la imagen" class="image-link">
+        <img src="fondo 001.gif" alt="Descripción del GIF" class="image-link">
     </a>
 </body>
 </html>
+
+
+
+
 
 
