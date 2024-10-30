@@ -65,11 +65,8 @@
     </a>
 </body>
 </html>
-">
-        <img src="foto 001.gif" alt="Descripción del GIF" class="image-link">
-    </a>
-</body>
-</html>
+
+ 
 
 
 
