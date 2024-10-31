@@ -85,10 +85,10 @@
         .formatted-text {
             color: white; /* Color del texto en blanco */
             font-size: 24px; /* Tamaño de letra */
-            font-weight: bold; /* Texto en negrita */
-            font-style: italic; /* Texto en cursiva */
-            text-align: center; /* Centrar el texto */
-            text-decoration: underline; /* Subrayar el texto */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
             margin-top: 50px; /* Margen superior */
         }
     </style>
