@@ -90,6 +90,8 @@
             text-align: left; /* Centrar el texto */
             text-decoration: ; /* Subrayar el texto */
             margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
         }
     </style>
 </head>
