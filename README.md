@@ -31,6 +31,10 @@
 
 
 
+
+
+
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -97,11 +101,51 @@
 </head>
 <body>
     <div class="formatted-text">
-    Bienvenido a Web Code
+
 
 ¡Explora el fascinante mundo de la programación con nosotros!
 
 En web code, nos dedicamos a proporcionar recursos, tutoriales y herramientas de primera calidad para programadores de todos los niveles. Desde principiantes que están dando sus primeros pasos en el código hasta profesionales experimentados que buscan perfeccionar sus habilidades, aquí encontrarás todo lo que necesitas para crecer en el campo de la programación.
+
+
+    </div>
+</body>
+</html>
+
+
+
+
+
+ 
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
+ 
+
 
 ¿Qué ofrecemos?
 Tutoriales Detallados: Aprende a tu propio ritmo con nuestros tutoriales paso a paso en diversos lenguajes de programación como Python, JavaScript, Java, C++ y más.
@@ -126,7 +170,39 @@ En CodeMaster, creemos que la programación es una habilidad esencial en el mund
 
 
 
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
  
+
+¡Comienza tu viaje hoy mismo y conviértete en un programador!
+    </div>
+</body>
+</html>
+
 
 
 
