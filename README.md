@@ -169,6 +169,213 @@ En CodeMaster, creemos que la programación es una habilidad esencial en el mund
 
 
 
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
+ 
+
+
+¿Qué ofrecemos?
+Tutoriales Detallados: Aprende a tu propio ritmo con nuestros tutoriales paso a paso en diversos lenguajes de programación como Python, JavaScript, Java, C++ y más.
+    </div>
+</body>
+</html>
+
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
+ 
+
+
+
+Proyectos Prácticos: Pon en práctica lo aprendido con proyectos reales. Desde la creación de aplicaciones web hasta el desarrollo de videojuegos, nuestros proyectos te ayudarán a consolidar tus conocimientos.
+    </div>
+</body>
+</html>
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
+ 
+
+
+
+Foros de Discusión: Únete a una comunidad activa de programadores. Comparte tus dudas, resuelve problemas y colabora en proyectos con otros entusiastas de la programación.
+    </div>
+</body>
+</html>
+
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
+ 
+
+
+Recursos y Herramientas: Accede a una biblioteca de recursos con libros, artículos, y herramientas que te ayudarán a mejorar tus habilidades y a mantenerse actualizado con las últimas tendencias.
+    </div>
+</body>
+</html>
+
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
+ 
+
+
+Cursos Online: Inscríbete en nuestros cursos en línea y obtén certificaciones que avalen tus conocimientos. Nuestros cursos están diseñados por expertos en la industria para garantizar una educación de calidad.
+    </div>
+</body>
+</html>
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formateado</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .formatted-text {
+            color: white; /* Color del texto en blanco */
+            font-size: 24px; /* Tamaño de letra */
+            font-weight:; /* Texto en negrita */
+            font-style: arial; /* Texto en cursiva */
+            text-align: left; /* Centrar el texto */
+            text-decoration: ; /* Subrayar el texto */
+            margin-top: 50px; /* Margen superior */
+            line-height: 1.6; /* Ajusta el interlineado */ 
+            margin: 20px; /* Margen alrededor del texto */      
+        }
+    </style>
+</head>
+<body>
+    <div class="formatted-text">
+ 
+Únete a la Comunidad
+En CodeMaster, creemos que la programación es una habilidad esencial en el mundo moderno y queremos ayudarte a dominarla. Nuestra misión es empoderarte con el conocimiento y las herramientas necesarias para que puedas construir tu futuro digital.
+  </div>
+</body>
+</html>
 
 
 <html lang="es">
