@@ -416,48 +416,5 @@ En CodeMaster, creemos que la programación es una habilidad esencial en el mund
 
 
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botón con Hipervínculo</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-        }
-        .btn {
-            display: inline-block;
-            font-size: 18px;
-            padding: 15px 30px;
-            color: white;
-            background-color: #007BFF;
-            border: none;
-            border-radius: 25px;
-            cursor: pointer;
-            text-align: center;
-            text-decoration: none;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: background-color 0.3s, box-shadow 0.3s;
-        }
-        .btn:hover {
-            background-color: #0056b3;
-            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
-        }
-    </style>
-</head>
-<body>
-    <a href="https://ice20026.github.io/web-01/" class="btn">mas informacion </a>
-</body>
-</html>
-
-
-
 
 
