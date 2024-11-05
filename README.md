@@ -22,7 +22,7 @@
     </style>
 </head>
 <body>
-    <h1>Bien Venido </h1>
+    <h1>bienvenido </h1>
     <p></p>
 </body>
 </html>
