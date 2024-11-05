@@ -413,66 +413,6 @@ En CodeMaster, creemos que la programación es una habilidad esencial en el mund
 
 
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dividir Página en Secciones</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            height: 100vh;
-        }
-        .section {
-            flex: 1;
-            padding: 20px;
-            box-sizing: border-box;
-        }
-        .section-1 {
-            background-color: #f8b400; /* Color de fondo para la primera sección */
-        }
-        .section-2 {
-            background-color: #34ace0; /* Color de fondo para la segunda sección */
-        }
-        .section-3 {
-            background-color: #2ed573; /* Color de fondo para la tercera sección */
-        }
-        /* Opcional: para ajustar los tamaños de las secciones */
-        .section-1 {
-            flex: 2; /* La primera sección ocupa el doble de espacio */
-        }
-        .section-2, .section-3 {
-            flex: 1;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="section section-1">
-            <h1>Sección 1</h1>
-            <p>Contenido de la primera sección.</p>
-        </div>
-        <div class="section section-2">
-            <h1>Sección 2</h1>
-            <p>Contenido de la segunda sección.</p>
-        </div>
-        <div class="section section-3">
-            <h1>Sección 3</h1>
-            <p>Contenido de la tercera sección.</p>
-        </div>
-    </div>
-</body>
-</html>
-
-
-
 
 
 
