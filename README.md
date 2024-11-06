@@ -63,7 +63,7 @@
     </style>
 </head>
 <body>
-    <a href="https://ice20026.github.io/web-002/">
+    <a href="https://ice20026.github.io/ice_02/">
         <img src="foto 001.gif" alt="Descripción del GIF" class="image-link">
     </a>
 </body>
